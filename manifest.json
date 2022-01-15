@@ -1,6 +1,6 @@
 {
-    "name": "PyRunner",
-    "description": "Run Python code in the browser!",
+    "name": "Visual Studio Code(Chrome Extension)",
+    "description": "Unofficial extension for Visual Studio Code",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
